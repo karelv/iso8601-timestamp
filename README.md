@@ -5,13 +5,13 @@ Atom package to insert [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) compli
 
 The package provides two functions.
 
-<kbd>cmd</kbd>-<kbd>shift</kbd>-<kbd>t</kbd> (*iso-datetime:local*) prints a local timestamp like:
+<kbd>cmd</kbd>-<kbd>shift</kbd>-<kbd>t</kbd> (*iso8601-timestamp:local*) prints a local timestamp like:
 
 2015-08-29T11:57:03+02:00.
 
 A context-menu option to insert the local time is provided.
 
-<kbd>cmd</kbd>-<kbd>shift</kbd>-<kbd>u</kbd> (*iso-datetime:utc*) prints a UTC timestamp like:
+<kbd>cmd</kbd>-<kbd>shift</kbd>-<kbd>u</kbd> (*iso8601-timestamp:utc*) prints a UTC timestamp like:
 
 2015-08-29T09:57:19Z.
 
